@@ -1,1 +1,1 @@
-# ArcoLinux-Neofetch-config
+# ArcoLinux-Fastfetch-config
